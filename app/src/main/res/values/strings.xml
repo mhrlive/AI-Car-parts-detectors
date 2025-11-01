@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Car Parts Detector</string>
+    <string name="camera_permission_denied">Camera permission is required to use this app</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="detect_parts">Detect Parts</string>
+    <string name="select_image">Select Image</string>
+    <string name="detection_results">Detection Results:</string>
+    <string name="no_results">No car parts detected</string>
+    <string name="processing">Processing image...</string>
+    <string name="camera_preview">Camera Preview</string>
+    <string name="detected_items">Detected Items</string>
+    <string name="confidence">Confidence: %1$s%%</string>
+    <string name="error_camera">Error starting camera</string>
+    <string name="error_detection">Error during detection</string>
+</resources>
